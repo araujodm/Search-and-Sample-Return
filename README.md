@@ -9,6 +9,9 @@ All things here a quite new to me. From Anaconda to Jupyter and also Git and Pyt
 Considering that, even doing my best, still hard to send better results because also my mother language is not English and it is my first time using Mac.
 
 For me, nothing is better than hard challenges like that, so, thanks for being patient.
+
+By the way, I need help with my Notebook. (Jupyter)
+
 Best regards,
 Daniel Araujo
 
